@@ -2,27 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windturbines Hamont</title>
-    <link>https://rkiggen.github.io/windturbines-hamont.be/</link>
+    <link>https://windturbines-hamont.be/</link>
     <description>Recent content on Windturbines Hamont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
-    <lastBuildDate>Wed, 13 Dec 2023 10:04:13 +0100</lastBuildDate><atom:link href="https://rkiggen.github.io/windturbines-hamont.be/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Dec 2023 14:46:00 +0100</lastBuildDate><atom:link href="https://windturbines-hamont.be/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Over Windturbines Hamont</title>
-      <link>https://rkiggen.github.io/windturbines-hamont.be/about/</link>
+      <link>https://windturbines-hamont.be/about/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://rkiggen.github.io/windturbines-hamont.be/about/</guid>
+      <guid>https://windturbines-hamont.be/about/</guid>
       <description>Als bezorgde Hamontenaren hebben we sinds september de werkgroep Windturbines Hamont opgericht nadat Engie de plannen bekend maakte om 3 windturbines van 150 meter hoog te bouwen op de volgende 3 locaties: Spaas Kaarsen, Stadswerf Hamont en Vandervelden.
 Wij zijn voorstander van hernieuwbare energie, maar zijn wel ongerust over de impact hiervan op de onmiddellijke omgeving aangezien de turbines zeer dicht - naar onze mening zelfs te dicht - bij natuurgebied, woonomgeving en bedrijven worden ingeplant.</description>
     </item>
     
     <item>
+      <title>Duwtje in de rug</title>
+      <link>https://windturbines-hamont.be/post/20231213-steun/</link>
+      <pubDate>Wed, 13 Dec 2023 14:46:00 +0100</pubDate>
+      
+      <guid>https://windturbines-hamont.be/post/20231213-steun/</guid>
+      <description>Na de infoavond van 4 december kregen we van vele mensen de vraag of ze ons ook financieel konden ondersteunen. Daarom hebben wij uiteindelijk besloten om een rekeningnummer te openen waarop iedereen die dit wenst een vrijwillige bijdrage kan storten.
+Gegevens rekeningnummer:
+IBAN:BE50 7370 7370 7818 Ten name van: Actie comité tegen windturbines HA Mocht er na de betaling van alle kosten (advocaat, drukwerk, …) nog geld over zijn, dan maken we dit integraal over aan het platform Leefbare Energie Vlaanderen.</description>
+    </item>
+    
+    <item>
       <title>Indienen bezwaarschriften</title>
-      <link>https://rkiggen.github.io/windturbines-hamont.be/post/20231213-indienen-bezwaarschriften/</link>
+      <link>https://windturbines-hamont.be/post/20231213-indienen-bezwaarschriften/</link>
       <pubDate>Wed, 13 Dec 2023 10:04:13 +0100</pubDate>
       
-      <guid>https://rkiggen.github.io/windturbines-hamont.be/post/20231213-indienen-bezwaarschriften/</guid>
+      <guid>https://windturbines-hamont.be/post/20231213-indienen-bezwaarschriften/</guid>
       <description>Oproep!
 Vrijdag 15 december verzamelen we om 10u op het marktplein voor het stadhuis in Hamont en gaan we samen de bezwaarschriften indienen.
 Iedereen die zin en tijd heeft, is welkom om mee te komen.
@@ -33,19 +44,19 @@ Bezwaarschrift</description>
     
     <item>
       <title>Welkom</title>
-      <link>https://rkiggen.github.io/windturbines-hamont.be/post/20231213-welcome/</link>
+      <link>https://windturbines-hamont.be/post/20231213-welcome/</link>
       <pubDate>Wed, 13 Dec 2023 10:04:13 +0100</pubDate>
       
-      <guid>https://rkiggen.github.io/windturbines-hamont.be/post/20231213-welcome/</guid>
+      <guid>https://windturbines-hamont.be/post/20231213-welcome/</guid>
       <description>Hartelijk welkom op de website van Windturbines Hamont. Helaas zien wij ons genoodzaakt om voortaan alle informatie via deze site te delen zodat wij tenminste niet meer afhankelijk zijn van de willekeur van Facebook om onze pagina&amp;#39;s en accounts te blokkeren.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rkiggen.github.io/windturbines-hamont.be/search/placeholder/</link>
+      <link>https://windturbines-hamont.be/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rkiggen.github.io/windturbines-hamont.be/search/placeholder/</guid>
+      <guid>https://windturbines-hamont.be/search/placeholder/</guid>
       <description></description>
     </item>
     

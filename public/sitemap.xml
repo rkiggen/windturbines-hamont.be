@@ -2,27 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/about/</loc>
+    <loc>https://windturbines-hamont.be/about/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/post/20231213-indienen-bezwaarschriften/</loc>
+    <loc>https://windturbines-hamont.be/post/20231213-steun/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/post/</loc>
+    <loc>https://windturbines-hamont.be/post/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/post/20231213-welcome/</loc>
+    <loc>https://windturbines-hamont.be/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/</loc>
+    <loc>https://windturbines-hamont.be/categories/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/search/placeholder/</loc>
+    <loc>https://windturbines-hamont.be/categories/evenementen/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/categories/</loc>
+    <loc>https://windturbines-hamont.be/post/20231213-indienen-bezwaarschriften/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/search/</loc>
+    <loc>https://windturbines-hamont.be/post/20231213-welcome/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rkiggen.github.io/windturbines-hamont.be/tags/</loc>
+    <loc>https://windturbines-hamont.be/search/placeholder/</loc>
+  </url><url>
+    <loc>https://windturbines-hamont.be/search/</loc>
+  </url><url>
+    <loc>https://windturbines-hamont.be/tags/</loc>
   </url>
 </urlset>

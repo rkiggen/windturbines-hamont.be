@@ -1,0 +1,26 @@
+#+title: Duwtje in de rug
+#+date: 2023-12-13T14:46:00+01:00
+#+lastmod: 2023-12-13
+#+categories[]:
+#+tags[]:
+#+images[]:
+#+keyphrase:
+#+description:
+#+seotitle:
+#+seo: true
+#+math: false
+#+slider: false
+#+private: false
+#+draft: false
+
+Na de infoavond van 4 december kregen we van vele mensen de vraag of ze ons ook financieel konden ondersteunen. Daarom
+hebben wij uiteindelijk besloten om een rekeningnummer te openen waarop iedereen die dit wenst een vrijwillige bijdrage kan
+storten.
+
+_Gegevens rekeningnummer:_
+- IBAN:BE50 7370 7370 7818
+- Ten name van: Actie comité tegen windturbines HA
+
+Mocht er na de betaling van alle kosten (advocaat, drukwerk, ...) nog geld over zijn, dan maken we dit integraal over
+aan het platform [[https://www.leefbareenergievlaanderen.be/][Leefbare Energie Vlaanderen]].
+
