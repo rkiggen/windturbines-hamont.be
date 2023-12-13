@@ -5,7 +5,7 @@ title = "Windturbines Hamont"
 theme = "hugo-theme-cleanwhite"
 
 [params]
-header_image = "img/nature.jpg"
+header_image = "img/hamont_natuur.jpg"
 slogan = "Hou Hamont-Achel leefbaar"
 about_me = true
 
