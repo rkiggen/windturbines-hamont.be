@@ -1,5 +1,5 @@
-baseURL = 'https://rkiggen.github.io/windturbines-hamont.be/'
-languageCode = 'nl-be'
+baseURL = "https://rkiggen.github.io/windturbines-hamont.be/"
+languageCode = "nl-be"
 title = "Windturbines Hamont"
 
 theme = "hugo-theme-cleanwhite"
@@ -19,4 +19,4 @@ sidebar_avatar = "img/windturbines_hamont_watertoren_kerk_turbine.png"      # us
 
   [[params.addtional_menus]]
   title =  "Over"
-  href =  "/about/"
+  href =  "./about"
