@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+languageCode = 'nl-be'
+title = "Windturbines Hamont"
+
+theme = "hugo-theme-cleanwhite"
+
+[params]
+header_image = "img/nature.jpg"
+slogan = "Hou Hamont-Achel leefbaar"
+about_me = true
+
+# Sidebar settings
+sidebar_about_description = "Werkgroep Windturbines Hamont, bezorgde burgers"
+sidebar_avatar = "img/windturbines_hamont_watertoren_kerk_turbine.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  [params.social]
+  rss            = true
+  email          = "windturbines.hamont@gmail.com"
+
+  [[params.addtional_menus]]
+  title =  "Over"
+  href =  "/about/"

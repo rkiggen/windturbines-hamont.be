@@ -1,0 +1,19 @@
+#+title: Welkom
+#+date: 2023-12-13T10:04:13+01:00
+#+lastmod: 2023-12-13
+#+categories[]:
+#+tags[]:
+#+images[]:
+#+keyphrase:
+#+description:
+#+seotitle:
+#+seo: true
+#+math: false
+#+slider: false
+#+private: false
+#+draft: false
+
+Hartelijk welkom op de website van Windturbines Hamont.
+Helaas zien wij ons genoodzaakt om voortaan alle informatie via deze site te delen zodat wij tenminste niet meer
+afhankelijk zijn van de willekeur van Facebook om onze pagina's en accounts te blokkeren.
+

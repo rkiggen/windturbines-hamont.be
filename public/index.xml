@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windturbines Hamont</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Windturbines Hamont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Wed, 13 Dec 2023 10:04:13 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Over Windturbines Hamont</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Als bezorgde Hamontenaren hebben we sinds september de werkgroep Windturbines Hamont opgericht nadat Engie de plannen bekend maakte om 3 windturbines van 150 meter hoog te bouwen op de volgende 3 locaties: Spaas Kaarsen, Stadswerf Hamont en Vandervelden.
+Wij zijn voorstander van hernieuwbare energie, maar zijn wel ongerust over de impact hiervan op de onmiddellijke omgeving aangezien de turbines zeer dicht - naar onze mening zelfs te dicht - bij natuurgebied, woonomgeving en bedrijven worden ingeplant.</description>
+    </item>
+    
+    <item>
+      <title>Indienen bezwaarschriften</title>
+      <link>http://example.org/post/20231213-indienen-bezwaarschriften/</link>
+      <pubDate>Wed, 13 Dec 2023 10:04:13 +0100</pubDate>
+      
+      <guid>http://example.org/post/20231213-indienen-bezwaarschriften/</guid>
+      <description>Oproep!
+Vrijdag 15 december verzamelen we om 10u op het marktplein voor het stadhuis in Hamont en gaan we samen de bezwaarschriften indienen.
+Iedereen die zin en tijd heeft, is welkom om mee te komen.
+Hoe meer zielen, hoe meer vreugd!!!
+En voor diegenen die nog steeds geen bezwaarschrift hebben ondertekend, hier is de link naar het bezwaarschrift:
+Bezwaarschrift</description>
+    </item>
+    
+    <item>
+      <title>Welkom</title>
+      <link>http://example.org/post/20231213-welcome/</link>
+      <pubDate>Wed, 13 Dec 2023 10:04:13 +0100</pubDate>
+      
+      <guid>http://example.org/post/20231213-welcome/</guid>
+      <description>Hartelijk welkom op de website van Windturbines Hamont. Helaas zien wij ons genoodzaakt om voortaan alle informatie via deze site te delen zodat wij tenminste niet meer afhankelijk zijn van de willekeur van Facebook om onze pagina&amp;#39;s en accounts te blokkeren.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
