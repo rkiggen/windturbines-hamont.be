@@ -1,0 +1,24 @@
+#+title: Gedichtje
+#+date: 2023-12-16T10:06:00+01:00
+#+lastmod: 2023-12-16
+#+categories[]:
+#+tags[]:
+#+images[]:
+#+keyphrase:
+#+description:
+#+seotitle:
+#+seo: true
+#+math: false
+#+slider: false
+#+private: false
+#+draft: false
+
+Het moge duidelijk zijn dat we creatieve inwoners hebben in Hamont-Achel.
+
+Hieronder vinden jullie een mooi gedichtje van Boudi van Lit.
+
+
+#+attr_html: alt: Windturbines: Image Title :width 800
+#+caption: Windturbines
+[[/img/gedicht_boudi_van_lit.jpg]]
+

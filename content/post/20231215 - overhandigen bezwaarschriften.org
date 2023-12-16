@@ -1,0 +1,29 @@
+#+title: Overhandigen bezwaarschriften
+#+date: 2023-12-15T10:16:00+01:00
+#+lastmod: 2023-12-15
+#+categories[]:
+#+tags[]:
+#+images[]:
+#+keyphrase:
+#+description:
+#+seotitle:
+#+seo: true
+#+math: false
+#+slider: false
+#+private: false
+#+draft: false
+
+Vandaag ging de werkgroep samen met een aantal sympathisanten de - ruim 800 - bezwaarschriften overhandigen op het
+stadhuis.
+
+Gelukkig waren ze op het stadhuis voorbereid, maar zelfs met de inzet van extra personeel duurde het nog ruim 45 minuten
+voor alle bezwaarschriften verwerkt (genummerd, gestempeld en gekopieerd) waren.
+
+Ook de pers was aanwezig:
+- [[https://www.vrt.be/vrtnws/nl/2023/12/14/meer-dan-800-bezwaarschriften-ingediend-tegen-komst-van-3-windtu/][VRT NWS]]
+- [[https://www.hbvl.be/cnt/dmf20231215_96832107][Het Belang van Limburg]]
+
+#+attr_html: Image Title :width 800
+#+caption: Werkgroep & sympathisanten
+[[/img/overhandigen_bezwaarschriften.jpg]]
+
